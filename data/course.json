@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Energy"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "b5351059-b080-2c0b-f7dd-d605f2830fb1",
+  "instructors": {
+    "content": [
+      "f92495a0-4a0c-fd67-4c9f-4a7515419ea0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "60e732c6-b533-e479-0afd-9b3d33d7c40b",
+    "website": "res-env-004-mit-climate-portal-fall-2020"
+  },
+  "course_title": "MIT Climate Portal",
+  "hide_download": true,
+  "course_description": "To inform and empower the public on the complex issue of climate change, the Massachusetts Institute of Technology has created a Climate Portal, an online home for timely, science-based information about the causes and consequences of climate change\u2014and what can be done to address it. Whether you are new to climate change or ready for a deeper exploration, the MIT Climate Portal offers a virtual place to ground your knowledge and ask your questions of experts. It also highlights MIT\u2019s latest climate change research and initiatives for action.\n\nThe MIT Climate Portal is managed by the [MIT Environmental Solutions Initiative](https://climate.mit.edu/users/mit-environmental-solutions-initiative), with support from the [MIT Office of the Vice President for Research](https://research.mit.edu/).\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.ENV-004",
+  "course_image_thumbnail": {
+    "content": "43da18ca-11a7-e5a6-20c4-a5b0be526dee",
+    "website": "res-env-004-mit-climate-portal-fall-2020"
+  },
+  "learning_resource_types": [],
+  "site_uid": "ca9566e6-515b-4321-8c5f-64d765cb878d",
+  "site_short_id": "res.env-004-fall-2020",
+  "site_url_path": "courses/res-env-004-mit-climate-portal-fall-2020",
+  "title": "Course Metadata"
+}
